@@ -1,0 +1,39 @@
+ .container{
+   background-color: black;
+   font-family: san-serif;
+   padding: 20px 30px 20px 30px;
+   color: green;
+}
+.y{
+  background-color: black;
+  color: red;
+  font-size: 0.8em;
+  padding: 10px 20px 10px 20px;
+  border-radius: 10px;
+  text-decoration: underline;
+}
+.z{
+  margin-top: 30px;
+}
+.a{
+  margin-bottom: 30px;
+}
+ .i{
+   color: Black;
+   background-color: blue;
+ }
+.o{
+  width: 100%;
+  float: left;
+}
+.g{
+  background-color: black;
+  color: red;
+  font-size: 1.5em;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 10px;
+  text-decoration: underline;
+  .2{
+    margin-top: 300px;
+  }
